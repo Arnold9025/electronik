@@ -35,7 +35,8 @@ Celui-ci pourra :
 * Protocole HTTP
 * Maven
 
-### Who do I talk to? ###
+### Lancer le projet  ###
+* Ouvrir le projet dans NetBeans
+* Configurer le serveur Appache Tomcat
+* Cliquer sur Run
 
-* Repo owner or admin
-* Other community or team contact
